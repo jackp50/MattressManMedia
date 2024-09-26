@@ -289,6 +289,12 @@ button {
     margin-left: 3%;
 }
 
+.non-home-movie-title-container {
+    border: green;
+    height: auto;
+    width: 70%;
+}
+
 .poster {
     height: 100%;
     width: 100%;
