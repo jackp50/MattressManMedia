@@ -290,7 +290,7 @@ button {
 }
 
 .non-home-movie-title-container {
-    border: green;
+    border: 4px soild green;
     height: auto;
     width: 70%;
 }
