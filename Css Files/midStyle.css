@@ -149,7 +149,7 @@ div {
 .list {
     display: flex;
     flex-direction: column;
-    
+    list-style-type: none;
   }
 
 .inner-menu-div {
