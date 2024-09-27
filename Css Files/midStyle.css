@@ -152,6 +152,8 @@ div {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
+    font: bold;
+    font-size: large;
   }
 
 .inner-menu-div {
