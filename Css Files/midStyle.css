@@ -150,6 +150,8 @@ div {
     display: flex;
     flex-direction: column;
     list-style-type: none;
+    margin: 0px;
+    padding: 0px;
   }
 
 .inner-menu-div {
