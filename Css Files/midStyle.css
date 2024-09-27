@@ -284,7 +284,7 @@ button {
 .non-home-inner-right-container {
     /* border: 4px solid black; */
     display: flex;
-    height: auto;
+    height: 40%;
     width: 70%;
     margin: top;
     position: relative;
@@ -309,8 +309,8 @@ button {
 
 
 .poster {
-    height: 600px;
-    width: 300px;
+    height: 100%;
+    width: 100%;
     /* Poster resize is width: 400, Height: 600 (done with third party app) */
 }
  
