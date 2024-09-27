@@ -300,10 +300,11 @@ button {
     margin-top: 0;
 }
 .non-home-movie-director-container {
-    border: 4px solid green;
+    /* border: 4px solid green; */
     height: auto;
     width: 70%;
     position: relative;
+    margin: 0;
 }
 
 
