@@ -149,7 +149,7 @@ div {
 .list {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    
   }
 
 .inner-menu-div {
