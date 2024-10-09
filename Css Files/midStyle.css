@@ -316,9 +316,8 @@ button {
  
 /* Table sizing */
 table, th, td {
-    border: 1px solid Black;}
     table {
     width: 100%;}
-    
+}
     
        
