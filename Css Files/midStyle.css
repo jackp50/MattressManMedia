@@ -58,6 +58,7 @@
 div {
     font-family: pixelSans;
     /* overflow: hidden; */
+    border: #935b26;
     
   }
 .outer-container {
