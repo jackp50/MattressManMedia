@@ -315,10 +315,11 @@ button {
     /* Poster resize is width: 400, Height: 600 (done with third party app) */
 }
  
-/* Table sizing */
-table, th, td {
-    table {
-    width: 100%;}
-}
+form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
     
        
