@@ -315,11 +315,6 @@ button {
     /* Poster resize is width: 400, Height: 600 (done with third party app) */
 }
  
-form {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
+
     
        
